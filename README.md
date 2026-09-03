@@ -1,3 +1,6 @@
+⚠️ This repository has been archived and is no longer maintained.
+The code is available for historical reference or archival purposes.
+
 # Anomaly Simulation Service
 
 Purpose of this service is to simulate specific anomaly situations, such as: 
